@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\bin\Debug\NetworksIntroductionDnsSockets.exe.config
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\bin\Debug\NetworksIntroductionDnsSockets.exe
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\bin\Debug\NetworksIntroductionDnsSockets.pdb
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets_MarkupCompile.cache
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets_MarkupCompile.lref
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.g.resources
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.Properties.Resources.resources
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.exe
+C:\Users\Admin\source\repos\NetworksIntroductionDnsSockets\NetworksIntroductionDnsSockets\obj\Debug\NetworksIntroductionDnsSockets.pdb
