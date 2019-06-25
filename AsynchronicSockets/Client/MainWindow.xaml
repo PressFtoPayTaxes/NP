@@ -1,0 +1,19 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="219.439" Width="275.583"
+        Closing="WindowClosing">
+    <Grid>
+        <Label Content="Почтовый индекс:" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="postcodeTextBox" HorizontalAlignment="Left" Height="23" Margin="10,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Название улицы:" HorizontalAlignment="Left" Margin="10,98,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="streetNameTextBox" IsReadOnly="True" HorizontalAlignment="Left" Height="50" Margin="10,124,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="249"/>
+        <Button Name="sendButton" IsEnabled="False" Content="Отправить" HorizontalAlignment="Left" Margin="158,70,0,0" VerticalAlignment="Top" Width="101" Height="23" Click="SendButtonClick"/>
+        <Button Name="connectButton" Content="Подключиться к серверу" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="249" Height="34" Click="ButtonClick"/>
+
+    </Grid>
+</Window>

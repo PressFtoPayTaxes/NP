@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\AsynchronicSockets.exe.config
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\AsynchronicSockets.exe
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\AsynchronicSockets.pdb
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\obj\Debug\AsynchronicSockets.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\obj\Debug\AsynchronicSockets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\obj\Debug\AsynchronicSockets.exe
+C:\Users\Admin\source\repos\AsynchronicSockets\AsynchronicSockets\obj\Debug\AsynchronicSockets.pdb
