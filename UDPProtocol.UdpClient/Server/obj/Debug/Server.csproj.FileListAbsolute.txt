@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\bin\Debug\Server.exe
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\bin\Debug\Server.pdb
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\obj\Debug\Server.exe
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\obj\Debug\Server.pdb
+C:\Users\Admin\source\repos\UDPProtocol.UdpClient\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
